@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_perfilPrestador"
+            android:title="Perfil" />
+        <item
+            android:id="@+id/nav_contratosPrestador"
+            android:title="Contratos" />
+
+        <item
+            android:id="@+id/nav_adicionarServico"
+            android:title="Adicionar Serviço"
+        />
+
+        <item
+            android:id="@+id/nav_sairPrestador"
+            android:title="Sair" />
+    </group>
+
+
+</menu>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categorias">
+        <item>Arquitetura</item>
+        <item>Arte e Música</item>
+        <item>Barber Shop</item>
+        <item>Beleza e Fitness</item>
+        <item>Bem estar e Saúde</item>
+        <item>Consultoria e Assesoria</item>
+        <item>Ensino e Treinamento</item>
+        <item>Festas e Eventos</item>
+        <item>Fotografia e Design</item>
+        <item>Limpeza e Detetização</item>
+        <item>Manutenção e Reparos</item>
+        <item>Mecânica e Servicos</item>
+        <item>Móveis e Estofados</item>
+        <item>Obras e Reformas</item>
+        <item>Segurança</item>
+        <item>Tecnologia</item>
+        <item>Vans Escolares</item>
+    </string-array>
+
+    <string-array name="categoriasBusca">
+        <item></item>
+        <item>Arquitetura</item>
+        <item>Arte e Música</item>
+        <item>Barber Shop</item>
+        <item>Beleza e Fitness</item>
+        <item>Bem estar e Saúde</item>
+        <item>Consultoria e Assesoria</item>
+        <item>Ensino e Treinamento</item>
+        <item>Festas e Eventos</item>
+        <item>Fotografia e Design</item>
+        <item>Limpeza e Detetização</item>
+        <item>Manutenção e Reparos</item>
+        <item>Mecânica e Servicos</item>
+        <item>Móveis e Estofados</item>
+        <item>Obras e Reformas</item>
+        <item>Segurança</item>
+        <item>Tecnologia</item>
+        <item>Vans Escolares</item>
+    </string-array>
+
+    <string-array name="arquitetura">
+        <item>Designer de interiores</item>
+        <item>Designer de exteriores</item>
+        <item>Urbanismo</item>
+    </string-array>
+
+    <string-array name="arte">
+        <item>Pintor</item>
+        <item>Músico</item>
+        <item>Ator</item>
+        <item>Escritor</item>
+    </string-array>
+
+    <string-array name="barber">
+        <item>Cabeleireiro</item>
+        <item>Barbeiro</item>
+    </string-array>
+
+    <string-array name="beleza">
+        <item>Academia</item>
+        <item>Personal trainer</item>
+        <item>Salão</item>
+        <item>Designer de sobrancelha</item>
+    </string-array>
+
+    <string-array name="bemestar">
+        <item>Nutricionista</item>
+        <item>Endocrinologista</item>
+        <item>Dermatologista</item>
+        <item>Ginecologista</item>
+        <item>Urologista</item>
+    </string-array>
+
+    <string-array name="consultoria">
+        <item>Advogado</item>
+        <item>Contador</item>
+        <item>Recursos humanos</item>
+        <item>Psicólogo</item>
+        <item>Terapeuta</item>
+    </string-array>
+
+    <string-array name="ensino">
+        <item>Professor particular</item>
+        <item>Personal</item>
+        <item>Técnico</item>
+    </string-array>
+
+    <string-array name="festa">
+        <item>Buffet</item>
+        <item>Salão</item>
+        <item>Distribuidora de bebidas</item>
+        <item>Garçom</item>
+        <item>Dj</item>
+        <item>Recepcionista</item>
+    </string-array>
+
+    <string-array name="fotografia">
+        <item>Fotógrafo</item>
+        <item>Iluminação</item>
+        <item>Designer gráfico</item>
+        <item>Estúdio fotográfico</item>
+    </string-array>
+
+    <string-array name="limpeza">
+        <item>Faxineira</item>
+        <item>Empregada</item>
+        <item>Caseiro</item>
+        <item>Zelador</item>
+    </string-array>
+
+    <string-array name="manutencao">
+        <item>Costureira</item>
+        <item>Assistência técnica</item>
+    </string-array>
+
+    <string-array name="mecanica">
+        <item>Mecânico</item>
+        <item>Seguro</item>
+        <item>Oficina</item>
+        <item>Borracheiro</item>
+    </string-array>
+
+    <string-array name="moveis">
+        <item>Móveis planejados</item>
+        <item>Higienizador de sofá</item>
+    </string-array>
+
+    <string-array name="obras">
+        <item>Pedreiro</item>
+        <item>Arquiteto</item>
+        <item>Designer</item>
+        <item>Pintor</item>
+        <item>Engenheiro</item>
+    </string-array>
+
+    <string-array name="seguranca">
+        <item>Seguro</item>
+        <item>Empresas de segurança</item>
+        <item>Câmera de segurança</item>
+    </string-array>
+
+    <string-array name="tecnologia">
+        <item>Técnico em informática</item>
+        <item>Assistência técnica</item>
+        <item>Programador</item>
+    </string-array>
+
+    <string-array name="van">
+        <item>Motorista</item>
+        <item>Empresa</item>
+        <item>Van universitária</item>
+        <item>Van escolar</item>
+    </string-array>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ClienteAvaliando">
+
+        <TextView
+            android:id="@+id/Avaliar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:text="Avaliar"
+            android:textColor="@color/colorPrimaryDark"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <RatingBar
+            android:id="@+id/estrelas"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:numStars="5"
+            android:stepSize="1.0"
+            android:rating="2.0"
+            app:layout_constraintTop_toBottomOf="@+id/Avaliar" />
+
+
+        <TextView
+            android:id="@+id/textindicacao"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="16dp"
+            android:textSize="20dp"
+            android:padding="10sp"
+            android:textColor="@color/colorPrimaryDark"
+            android:background="@drawable/listviewcustomizado"
+            android:text=" Ao selecionar a checkbox abaixo você está indicando o serviço aos conhecidos"
+            app:layout_constraintTop_toBottomOf="@+id/estrelas"
+            />
+
+            <CheckBox
+                android:layout_marginTop="10dp"
+                android:id="@+id/checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="25dp"
+                android:text="Indicar serviço"
+                app:layout_constraintTop_toBottomOf="@+id/textindicacao"/>
+
+        <Button
+            android:id="@+id/buttonAvaliar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:text="Avaliar"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:textStyle="bold"
+            android:background="@drawable/botaocustomizado"
+            android:textColor="#FFFF"/>
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CliqueServiços</string>
+    <string name="title_activity_cliente_login">Entrar</string>
+    <string name="title_activity_prestador_login">Entrar</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha </string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_cliente_menu">ClienteMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_teste">TEste</string>
+    <string name="title_activity_cliente_mapa">Map</string>
+    <string name="title_activity_prestador_menu">PrestadorMenu</string>
+</resources>

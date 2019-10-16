@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "693641185019",
+    "firebase_url": "https://saudades-ferias.firebaseio.com",
+    "project_id": "saudades-ferias",
+    "storage_bucket": "saudades-ferias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693641185019:android:a4ab8f9b928cd49b",
+        "android_client_info": {
+          "package_name": "com.cefetcontagem.queroferias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693641185019-pmf6qgtb3s7pg0md2866k7c95isjeser.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cefetcontagem.queroferias",
+            "certificate_hash": "f6a75a574c09b0231cba3764c6a7843a9b111649"
+          }
+        },
+        {
+          "client_id": "693641185019-i9vagrquisfe50ngm3hq57bj3efleak3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRTfalcd7g3WA8nh8L5FFsW3vaUNRWBh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693641185019-i9vagrquisfe50ngm3hq57bj3efleak3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
